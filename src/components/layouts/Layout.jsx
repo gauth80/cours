@@ -13,6 +13,7 @@ const useStyles = makeStyles((theme) => ({
       transform: 'translate(-100px)',
     }
 
+
   },
   content: {
     margin: `0 ${theme.spacing(0.15)}rem`,
