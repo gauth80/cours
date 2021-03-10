@@ -1,0 +1,103 @@
+{
+  "_comment" : "sert à la sidebar",
+  "css" : {
+    "begin" : {
+      "heading" : "Débutant",
+      "chapter" : [
+        "introduction",
+        "marge - color",
+        "font",
+        "aaaaa",
+        "tttttt"
+      ],
+      "anchor" : "/part-css#tiers"
+    },
+    "middle" : {
+      "heading" : "Intermédiaire",
+      "chapter" : [
+        "flexbox",
+        "grid",
+        "transitions"
+      ],
+      "anchor" : "/part-css#tiers"
+    },
+    "avancer" : {
+      "heading" : "csstrigger",
+      "chapter" : [
+        "Schema",
+        "intégrations",
+        "Les formulaires",
+        "AJAX",
+        "Canvas"
+      ],
+      "anchor" : "/part-js#tiers"
+    }
+  },
+  "mongo" : {
+    "begin" : {
+      "heading" : "Débutant",
+      "chapter" : [
+        "introduction",
+        "find",
+        "create"
+      ],
+      "anchor" : "/part-mongo#tiers"
+    },
+    "middle" : {
+      "heading" : "Intermédiaire",
+      "chapter" : [
+        "projection",
+        "pagination",
+        "agregation"
+      ],
+      "anchor" : "/part-mongo#tiers"
+    },
+    "avancer" : {
+      "heading" : "mongo realm",
+      "chapter" : [
+        "Schema",
+        "intégrations",
+        "Les formulaires",
+        "AJAX",
+        "Canvas"
+      ],
+      "anchor" : "/part-mongo#tiers"
+    }
+  },
+  "js" : {
+    "begin" : {
+      "heading" : "Débutant",
+      "chapter" : [
+        "A quoi sert JavaScript ?",
+        "Les bases",
+        "Manipulation des Strings",
+        "Calculer avec JavaScript",
+        "Manipulation de la date",
+        "Objet et Json"
+      ],
+      "anchor" : "/part-javascript#tiers"
+    },
+    "middle" : {
+      "heading" : "Intermédiaire",
+      "chapter" : [
+        "Programmation événementielle",
+        "Manipulation du document",
+        "Les formulaires",
+        "AJAX",
+        "Canvas"
+      ],
+      "anchor" : "/part-javascript#tiers"
+    },
+    "avancer" : {
+      "heading" : "ReactJs",
+      "chapter" : [
+        "Programmation événementielle",
+        "Manipulation du document",
+        "Les formulaires",
+        "AJAX",
+        "Canvas"
+      ],
+      "anchor" : "/part-javascript#tiers"
+    }
+  }
+}
